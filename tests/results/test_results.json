@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "total": 3,
+    "passed": 3,
+    "failed": 0,
+    "success_rate": "100.0%"
+  },
+  "results": [
+    {
+      "scenario": "Small Bakery",
+      "status": "PASSED",
+      "phases_completed": "analysis",
+      "discovery_complete": true
+    },
+    {
+      "scenario": "E-commerce Store",
+      "status": "PASSED",
+      "phases_completed": "analysis",
+      "discovery_complete": true
+    },
+    {
+      "scenario": "Freelance Consultant",
+      "status": "PASSED",
+      "phases_completed": "analysis",
+      "discovery_complete": true
+    }
+  ]
+}
